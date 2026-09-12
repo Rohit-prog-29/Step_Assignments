@@ -1,10 +1,8 @@
-package week_2.assignment_problems;
-
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Week 2 Assignment - Problem A4: Subarray Sum Equals K
+ * Week 4 Assignment - Problem A4: Subarray Sum Equals K
  * Scenario: Hostel attendance-change log analyzing stretches with net change k.
  * 
  * Uses prefix sums and HashMap frequency counting in O(n) time and O(n) space.
@@ -24,7 +22,7 @@ public class Problem4_SubarraySumEqualsK {
         }
 
         Map<Integer, Integer> prefixSumMap = new HashMap<>();
-        prefixSumMap.put(0, 1); // Base case for empty prefix
+        prefixSumMap.put(0, 1);
 
         int currentPrefixSum = 0;
         int count = 0;
@@ -44,7 +42,7 @@ public class Problem4_SubarraySumEqualsK {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - A4. Subarray Sum Equals K");
+        System.out.println("   Week 4 Assignment - A4. Subarray Sum Equals K");
         System.out.println("==================================================");
 
         int[] nums1 = {1, 1, 1};

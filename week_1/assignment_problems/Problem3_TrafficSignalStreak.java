@@ -1,3 +1,5 @@
+package week_1.assignment_problems;
+
 /**
  * Week 1 Assignment - Problem 3: The Traffic Signal Streak Analyzer
  * Scenario: City traffic control signal malfunction monitoring.

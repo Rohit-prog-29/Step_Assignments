@@ -1,3 +1,5 @@
+package week_1.assignment_problems;
+
 /**
  * Week 1 Assignment - Problem 1: The Exam Hall Seat Duplication Checker
  * Scenario: Examination Cell seat allocation verification.

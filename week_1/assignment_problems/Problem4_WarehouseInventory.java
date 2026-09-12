@@ -1,3 +1,5 @@
+package week_1.assignment_problems;
+
 /**
  * Week 1 Assignment - Problem 4: The Warehouse Inventory Balancer
  * Scenario: Warehouse stock monitoring across Section A and Section B.

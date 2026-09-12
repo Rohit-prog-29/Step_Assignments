@@ -1,7 +1,5 @@
-package week_2.assignment_problems;
-
 /**
- * Week 2 Assignment - Problem A2: Maximum Subarray
+ * Week 4 Assignment - Problem A2: Maximum Subarray
  * Scenario: Trader searching for consecutive days with maximum cumulative profit.
  * 
  * Implements Kadane's Algorithm to find maximum sum contiguous subarray in O(n) time.
@@ -32,7 +30,7 @@ public class Problem2_MaximumSubarray {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - A2. Maximum Subarray");
+        System.out.println("   Week 4 Assignment - A2. Maximum Subarray");
         System.out.println("==================================================");
 
         int[] nums1 = {-2, 1, -3, 4, -1, 2, 1, -5, 4};

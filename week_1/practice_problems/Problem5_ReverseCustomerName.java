@@ -1,3 +1,5 @@
+package week_1.practice_problems;
+
 /**
  * Problem 5: Reverse Customer Name
  * Scenario: The Customer Identity Verification System

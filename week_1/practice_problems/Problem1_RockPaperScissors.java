@@ -1,3 +1,5 @@
+package week_1.practice_problems;
+
 import java.util.Random;
 import java.util.Scanner;
 

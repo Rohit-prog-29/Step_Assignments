@@ -1,9 +1,7 @@
-package week_2.assignment_problems;
-
 import java.util.Arrays;
 
 /**
- * Week 2 Assignment - Problem A1: Product of Array Except Self
+ * Week 4 Assignment - Problem A1: Product of Array Except Self
  * Scenario: Product bundle price engine calculating product of all other items without division.
  * 
  * Uses two passes: forward pass for prefix products and backward pass for suffix products.
@@ -43,7 +41,7 @@ public class Problem1_ProductExceptSelf {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - A1. Product of Array Except Self");
+        System.out.println("   Week 4 Assignment - A1. Product of Array Except Self");
         System.out.println("==================================================");
 
         int[] nums1 = {1, 2, 3, 4};

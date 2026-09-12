@@ -1,3 +1,5 @@
+package week_1.assignment_problems;
+
 /**
  * Week 1 Assignment - Problem 5: The Movie Review Word Length Profiler
  * Scenario: Movie review platform spam moderation profiling.

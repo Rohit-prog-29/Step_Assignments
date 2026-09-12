@@ -1,9 +1,7 @@
-package week_2.practice_problems;
-
 import java.util.Arrays;
 
 /**
- * Week 2 Practice - Problem L5: Rotate Array
+ * Week 4 Practice - Problem L5: Rotate Array
  * Scenario: Playlist queue rotation to the right by k positions.
  * 
  * Rotates array elements using modulo arithmetic wraparound indexing:
@@ -43,7 +41,7 @@ public class Problem5_RotateArray {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - L5. Rotate Array");
+        System.out.println("   Week 4 Practice - L5. Rotate Array");
         System.out.println("==================================================");
 
         int[] nums1 = {1, 2, 3, 4, 5, 6, 7};

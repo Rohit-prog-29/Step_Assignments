@@ -1,7 +1,5 @@
-package week_2.practice_problems;
-
 /**
- * Week 2 Practice - Problem L3: Contains Duplicate
+ * Week 4 Practice - Problem L3: Contains Duplicate
  * Scenario: Exam seating chart roll number duplicate verification.
  * 
  * Uses nested loops to check if any two distinct positions hold identical values.
@@ -32,7 +30,7 @@ public class Problem3_ContainsDuplicate {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - L3. Contains Duplicate");
+        System.out.println("   Week 4 Practice - L3. Contains Duplicate");
         System.out.println("==================================================");
 
         int[] nums1 = {1, 2, 3, 1};

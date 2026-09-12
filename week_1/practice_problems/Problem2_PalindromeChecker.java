@@ -1,3 +1,5 @@
+package week_1.practice_problems;
+
 /**
  * Problem 2: Palindrome Checker (3 Approaches)
  * Scenario: The QA Text Verification Toolkit

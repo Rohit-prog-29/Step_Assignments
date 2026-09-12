@@ -1,8 +1,6 @@
-package week_2.practice_problems;
-
 /**
- * Week 2 Practice - Problem L2: Best Time to Buy and Sell Stock
- * Scenario: Single pass stock price profit optimization.
+ * Week 4 Practice - Problem L2: Best Time to Buy and Sell Stock
+ * Scenario: Investor optimizing stock profit in a single pass.
  * 
  * Tracks the lowest price seen so far and calculates maximum profit.
  */
@@ -38,7 +36,7 @@ public class Problem2_BestTimeToBuyAndSellStock {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - L2. Best Time to Buy and Sell Stock");
+        System.out.println("   Week 4 Practice - L2. Best Time to Buy & Sell Stock");
         System.out.println("==================================================");
 
         int[] prices1 = {7, 1, 5, 3, 6, 4};

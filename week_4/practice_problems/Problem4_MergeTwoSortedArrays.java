@@ -1,9 +1,7 @@
-package week_2.practice_problems;
-
 import java.util.Arrays;
 
 /**
- * Week 2 Practice - Problem L4: Merge Two Sorted Arrays
+ * Week 4 Practice - Problem L4: Merge Two Sorted Arrays
  * Scenario: Examination office combining two pre-sorted score lists.
  * 
  * Merges two sorted arrays using a two-pointer while loop into a single sorted array.
@@ -48,7 +46,7 @@ public class Problem4_MergeTwoSortedArrays {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - L4. Merge Two Sorted Arrays");
+        System.out.println("   Week 4 Practice - L4. Merge Two Sorted Arrays");
         System.out.println("==================================================");
 
         int[] arr1_a = {1, 3, 5};

@@ -1,9 +1,7 @@
-package week_2.practice_problems;
-
 import java.util.Arrays;
 
 /**
- * Week 2 Practice - Problem L1: Two Sum
+ * Week 4 Practice - Problem L1: Two Sum
  * Scenario: Shopkeeper matching item prices to customer budget.
  * 
  * Uses nested loops to find indices [i, j] such that nums[i] + nums[j] == target.
@@ -11,7 +9,7 @@ import java.util.Arrays;
 public class Problem1_TwoSum {
 
     /**
-     * Finds indices of two numbers that add up to target using pairwise search.
+     * Finds indices of two numbers that add up to target.
      * 
      * @param nums   Array of item prices
      * @param target Target budget
@@ -35,7 +33,7 @@ public class Problem1_TwoSum {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - L1. Two Sum");
+        System.out.println("   Week 4 Practice - L1. Two Sum");
         System.out.println("==================================================");
 
         int[] nums1 = {2, 7, 11, 15};

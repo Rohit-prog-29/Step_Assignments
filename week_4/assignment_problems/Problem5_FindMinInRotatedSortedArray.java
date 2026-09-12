@@ -1,7 +1,5 @@
-package week_2.assignment_problems;
-
 /**
- * Week 2 Assignment - Problem A5: Find Minimum in Rotated Sorted Array
+ * Week 4 Assignment - Problem A5: Find Minimum in Rotated Sorted Array
  * Scenario: Duty roster sorted by join date, rotated at unknown pivot point.
  * 
  * Implements modified binary search in O(log n) time.
@@ -26,10 +24,8 @@ public class Problem5_FindMinInRotatedSortedArray {
             int mid = left + (right - left) / 2;
 
             if (nums[mid] > nums[right]) {
-                // Minimum is in the right half
                 left = mid + 1;
             } else {
-                // Minimum is in the left half including mid
                 right = mid;
             }
         }
@@ -39,7 +35,7 @@ public class Problem5_FindMinInRotatedSortedArray {
 
     public static void main(String[] args) {
         System.out.println("==================================================");
-        System.out.println("   Category C - A5. Find Minimum in Rotated Sorted Array");
+        System.out.println("   Week 4 Assignment - A5. Find Min in Rotated Array");
         System.out.println("==================================================");
 
         int[] nums1 = {3, 4, 5, 1, 2};

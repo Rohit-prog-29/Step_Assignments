@@ -1,3 +1,5 @@
+package week_1.assignment_problems;
+
 /**
  * Week 1 Assignment - Problem 2: The Typing Speed Test Accuracy Checker
  * Scenario: Online typing practice accuracy validation.
