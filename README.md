@@ -76,6 +76,11 @@ Step_Assignments/
 
 ---
 
+### Week 7 (Category C Encapsulation)
+* **Practice Problems**: Piggy Bank, Quiz Scorecard, Nickname Tag, Locker Code, and Attendance Sheet.
+* **Assignment Problems**: Health Bar, Playlist, Password Checker, Traffic Light, and Shopping Cart.
+* Solutions demonstrate private state, controlled updates, immutable fields, and defensive copies.
+
 ## 🛠️ How to Compile & Run
 
 From the root directory:
@@ -87,4 +92,8 @@ javac week_1/practice_problems/*.java week_1/assignment_problems/*.java week_2/p
 # Run any specific problem, e.g.:
 java -cp week_2/assignment_problems Problem2_MaximumSubarray
 java -cp week_3/assignment_problems Problem5_PlacementDriveShortlisting
+
+# Compile and run Week 7 assignment solutions
+javac week_7/assignment_problems/*.java
+java -cp week_7/assignment_problems Problem1_HealthBar
 ```
